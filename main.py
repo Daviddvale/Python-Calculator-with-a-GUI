@@ -2,7 +2,7 @@
 
 #Calculator()
 
-from optimization import Calculator
+from objects import Calculator
 
 if __name__ == "__main__":
     calculator = Calculator()
