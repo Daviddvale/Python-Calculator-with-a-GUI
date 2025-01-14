@@ -95,6 +95,6 @@ class Calculator:
         self.calc.mainloop()
 
 # Create and run the calculator
-if __name__ == "__main__":
-    calculator = Calculator()
-    calculator.run()
+#if __name__ == "__main__":
+#    calculator = Calculator()
+#    calculator.run()
