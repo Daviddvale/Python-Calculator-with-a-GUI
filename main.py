@@ -1,7 +1,3 @@
-#from objects import Calculator
-
-#Calculator()
-
 from objects import Calculator
 
 if __name__ == "__main__":
